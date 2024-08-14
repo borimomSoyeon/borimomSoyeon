@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=pink8&height=150&section=header" style="width:100vw"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078e58&height=150&section=header" style="width:100vw"/>
 
 
 <div align="center">
@@ -84,4 +84,4 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=150&section=footer"  style="width:100vw"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078e5&height=150&section=footer"  style="width:100vw"/>
