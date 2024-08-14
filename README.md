@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=&fontSize=90" style="width:100vw;" />
 
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+
 </div>
 
 <!--내용 부분-->
@@ -65,8 +65,14 @@
 
 <br>
 
-👨‍💻 **At work** ([@borimomSoyeon](https://github.com/adorablesynny))
+<div align="center">
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimomSoyeon&hide=contribs,prs&show_icons=true&theme=테마) -->
+</div>
 
+<h3 align="center">👨‍💻 **At work**</h3>
+
+<div align="center> ([@borimomSoyeon](https://github.com/adorablesynny))</div>
+ 
 <img src="https://ghchart.rshah.org/adorablesynny" style="width: 100vw;" />
 
 <br>
@@ -83,4 +89,4 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078e5&height=150&section=footer"  style="width:100vw"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=90" style="width:100vw;" />
