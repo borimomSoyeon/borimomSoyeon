@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=22ABF3" />&nbsp
 <!--   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
@@ -65,17 +65,6 @@
 
 <br>
 
-<div align="center">
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimomSoyeon&hide=contribs,prs&show_icons=true&theme=테마) -->
-</div>
-
-<h3 align="center">👨‍💻 **At work**</h3>
-
-<div align="center> ([@borimomSoyeon](https://github.com/adorablesynny))</div>
- 
-<img src="https://ghchart.rshah.org/adorablesynny" style="width: 100vw;" />
-
-<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
