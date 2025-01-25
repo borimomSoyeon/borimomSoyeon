@@ -67,7 +67,7 @@
 
 <h3 align="center">✏️ Career ✏️</h3>
 <div align="center">
-  <a href="https://splendid-puppy-82a.notion.site/1727f1300a7480df83a4ecc2e6f141d4?pvs=4" target="_blank">
+  <a href="https://splendid-puppy-82a.notion.site/1727f1300a7480df83a4ecc2e6f141d4?pvs=4" target="blank">
     경력기술서 보러가기 ✔️
   </a>
 </div>
